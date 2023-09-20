@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FakeApiApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+<!--         <item name="colorPrimary">#ED000000</item>-->
+<!--        <item name="colorPrimaryDark">#E6E91E63</item>-->
+<!--        <item name="colorAccent">#38137A</item>-->
+    </style>
+
+    <style name="Theme.FakeApiApp" parent="Base.Theme.FakeApiApp" />
+</resources>
